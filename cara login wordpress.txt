@@ -1,0 +1,12 @@
+Cara Login Wordpress
+
+Ingin login Ke Wordpress yang sudah di hosting Tapi kamu sudah lupa Hostingnya dimana, Atau jangan-Jangan kamu sudah ganti laptop?.
+
+nah ini ada caranya untuk masalah tersebut
+1.yang penting kamu tau apa domain yang kau buat contoh:icikiwir.com
+2.tinggal tambahkan /wp-admin di belakang domainya contoh:icikiwir.com/wp-admin
+3.yang pasti dan paling penting kamu harus tau username dan pasword wordpress kamu, tinggal masukin dah username dan pasword kamu.
+selama kamau sudah ada di dasboard wordpreskamu.
+
+catatan:
+jadi kalo semisalnya kalian mau buat Wordpress username dan pasword jangan terlalu susah atau simpan datanya di mana gitu biar gak lupa
